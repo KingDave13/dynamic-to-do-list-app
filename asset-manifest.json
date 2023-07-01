@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dynamic-to-do-list-app/static/css/main.e65f944f.css",
+    "main.js": "/dynamic-to-do-list-app/static/js/main.55f6d095.js",
+    "index.html": "/dynamic-to-do-list-app/index.html",
+    "main.e65f944f.css.map": "/dynamic-to-do-list-app/static/css/main.e65f944f.css.map",
+    "main.55f6d095.js.map": "/dynamic-to-do-list-app/static/js/main.55f6d095.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e65f944f.css",
+    "static/js/main.55f6d095.js"
+  ]
+}
