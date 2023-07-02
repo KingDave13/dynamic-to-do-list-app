@@ -34,7 +34,7 @@ const TodoList = ({ todos, setTodos, setEditTodo }) => {
 					onChange={(event) => event.preventDefault()}
 					/>
 
-					<div>
+					<div className='task-buttons'>
 						<button className='button-complete task-button'
 						onClick={() => handleComplete(todo)}
 						>

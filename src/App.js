@@ -22,8 +22,9 @@ const App = () => {
           <Header />  
         </div>
 
-        <div>
-          <Form 
+        <div className='form'>
+          <Form
+          className='form-inside'
           input={input} 
           setInput={setInput}
           todos={todos}
